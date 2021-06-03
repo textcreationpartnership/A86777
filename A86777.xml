@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of many thousands of yong men, and apprentices of the City of London, to the High and Honorable, the knights, citizens and burgesses in the supreme court of Parliament assembled. Presented the 13 of July, 1647. Die Martis, 13 Julii, 1647. A petition, stiled The humble petition of many yong men and apprentices of the City of London, was this day read; and it is ordered, that Sir John Danvers, Alderman Atkin, and Colonel Ven do acquaint the petitioners, that the House is at this time upon the consideration of setling the peace and great affairs of the kingdom; that they will consider of it in convenient time. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86777</idno><idno type="EEBO-CITATION">99862186</idno>
+  <idno type="VID">114337</idno>
+  <idno type="EEBO-PROQUEST">2240938948</idno>
+  
+            <idno type="STC">Wing H3476</idno>
+            <idno type="STC">Thomason E398_9</idno>
+            <idno type="STC">ESTC R201686</idno>
+            <idno type="PROQUEST">99862186</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862186e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114337)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of many thousands of yong men, and apprentices of the City of London, to the High and Honorable, the knights, citizens and burgesses in the supreme court of Parliament assembled. Presented the 13 of July, 1647. Die Martis, 13 Julii, 1647. A petition, stiled The humble petition of many yong men and apprentices of the City of London, was this day read; and it is ordered, that Sir John Danvers, Alderman Atkin, and Colonel Ven do acquaint the petitioners, that the House is at this time upon the consideration of setling the peace and great affairs of the kingdom; that they will consider of it in convenient time. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Larnar, at the sign of the Black-Moor in Bishopsgate-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iuly 14. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An Independent petition"--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apprentices --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114337:1"/>
+            <pb facs="tcp:114337:1"/>
+            <p>The Humble PETITION OF Many Thousands of yong Men, and Apprentices of the City of <hi>LONDON,</hi> TO The High and Honorable, The Knights, Citizens and Burgesses in the Supreme COURT of PARLIAMENT Assembled.</p>
+            <p>Presented the 13 of JULY, 1647.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_the_petition">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Martis, 13 Julii, 1647.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>A</hi> Petition, stiled <hi>The humble Petition of many yong Men and Apprentices of the City of</hi> London, was this day read; and it is Ordered, That Sir <hi>John Danvers,</hi> Alder<g ref="char:EOLhyphen"/>man <hi>Atkin,</hi> and Colonel <hi>Ven</hi> do acquaint the Petitioners, That the House is at this time upon the consideration of setl<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng the Peace and great Affairs of the Kingdom; That they will consider of it in convenient time.</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Larnar,</hi> at the Sign of the Black-Moor in Bishopsgate-street, IULY 14. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114337:2"/>
+            <pb n="3" facs="tcp:114337:2"/>
+            <head>To the High and Honorable, The Knights, Citizens and Burgesses in the supreme Court of Parliament assembled: <hi>The Petition of divers yong Men and Apprentices of the City of</hi> London,</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat whereas upon the first of March last past your Petitioners presented (to this Ho<g ref="char:EOLhyphen"/>norable House) an humble Petition, subscri<g ref="char:EOLhyphen"/>bed with many thousand Hands, containing many things of publique concernment, both in rela<g ref="char:EOLhyphen"/>tion to the Kingdom in general, and your Petitioners in particular, as may appear by the copy of the same hereunto annexed; at the reading of which, your Honors were pleased to promise the taking the same into serious consideration in convenient time: In hopes of which, your Petitioners have with all humi<g ref="char:EOLhyphen"/>lity and modesty, according to our duty, waited ever since for the accomplishment of the same, forbearing all clamorous and tumultuous conventions, whereby your Honors might in the least have been disturbed in the quiet and peaceable prosecution of your weighty affairs. And we cannot but with all thankfulness ac<g ref="char:EOLhyphen"/>knowledge what you have already acted toward the satisfaction of our just Desires in part; but finding, to the great grief of our hearts, that in matter of greatest concernment, in stead of hoped redress, our heavie Grievances are increased, by the late Ejection
+<pb n="4" facs="tcp:114337:3"/>of Men of known Fidelity out of their several Office<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the City Regiments of Trained-Bands and Auxi<g ref="char:EOLhyphen"/>liaries, to the great grief of most honest men, who have been eye-witnesses of their faithfulness and for<g ref="char:EOLhyphen"/>wardness in the discharge of their several Trusts, and without any crime laid against them, so much as to give a pretended ground of this their unjust expulse. Likewise in stead of composure of Differences, we finde, that incouragement is given to men of turbu<g ref="char:EOLhyphen"/>lent and seditious Spirits, to stir up Divisions, by ren<g ref="char:EOLhyphen"/>dring those that concur not with them in every <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<g ref="char:EOLhyphen"/>ctilio (in point of Judgement) as men unworthy to in<g ref="char:EOLhyphen"/>joy their birthright-Priviledges, of subsistence in the Kingdom, notwithstanding they have given never so eminent Testimony of their sincere affection to the common good; whereby these too officious Incendi<g ref="char:EOLhyphen"/>aries seem more to drive at their particular Designs, then the conservation of Peace and Unity in the com<g ref="char:EOLhyphen"/>monwealth: And hereby, together with their late in<g ref="char:EOLhyphen"/>dustriousnes, in striving to exasperate the City against the Army, have endeavored what in them was, to embroil the Kingdom in a second War, most dread<g ref="char:EOLhyphen"/>ful to all well minded people to think of: Neither is it the least of our grief, to remember the late abuse of the Authority of this House, by the too great influ<g ref="char:EOLhyphen"/>ence of some Arbitrary Spirits, in the late abusing and sleighting <hi>Petitioners,</hi> contrary to their former Decla<g ref="char:EOLhyphen"/>ration touching the Liberty of the Subject, the very foundation of which was by this means most misera<g ref="char:EOLhyphen"/>bly shaken: Nor can we be unsensible of the misery some free-born Subjects yet undergoes, by being de<g ref="char:EOLhyphen"/>tained in prison from time to time, without being
+<pb n="5" facs="tcp:114337:3"/>brought to a legal Tryal, notwithstanding their seve<g ref="char:EOLhyphen"/>ral Appeals to this Honorable Court. Upon these and other pressing considerations, we assume the bold<g ref="char:EOLhyphen"/>ness, once more to present these our insuing Requests to this Honorable House:</p>
+            <p>First, <hi>That you will be pleased, with all convenient speed, according to your promise, to take the several Heads of our former Petition into serious consideration.</hi>
+            </p>
+            <p>Secondly, <hi>That your Authority so apparently abused, contrary to Right and Equity, by those that have of late ef<g ref="char:EOLhyphen"/>fected the Ejection of Men of known fidelity and account out of places of so important Trust, may be forthwith re<g ref="char:EOLhyphen"/>deemed out of their hands; and that those that have been so unreasonably expulsed, may be again restored to their places till sufficient ground be made apparent to the contrary.</hi>
+            </p>
+            <p>Thirdly, <hi>VVe further pray, That you will be pleased to Declare against all maner of invectives of the Clergie or others, tending to the aggravation of Differences a<g ref="char:EOLhyphen"/>mongst peaceable Spirits.</hi>
+            </p>
+            <p>Fourthly, <hi>And that those Prisoners who have appealed to this Honorable Court for Justice, may be forthwith put into a way of impartial Tryal.</hi>
+            </p>
+            <p>And lastly, <hi>That the sum of all your Endeavors may tend to the sweet composure of Differences on all sides, so f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r as it may be congruent to the Rules of Piety and Equity.</hi>
+            </p>
+            <p>And your <hi>Petitioners</hi> shall ever pray, &amp;c.</p>
+            <div type="response">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Martis,</hi> 13 <hi>Julii,</hi> 1647.</date>
+                  </dateline>
+               </opener>
+               <p>A Petition, stiled <hi>The humble Petition of many yong Men and Apprentices of the City of</hi> London, was this Day read; and it is Ordered, That Sir <hi>John Danvers,</hi> Alderman <hi>Atkin,</hi> and Colonel <hi>Ven</hi> do acquaint the Petitioners, That the House is at this time upon the consideration of set<g ref="char:EOLhyphen"/>ling the peace and great affairs of the Kingdom; That they will consider of it in convenient time.</p>
+               <closer>
+                  <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+               <postscript>
+                  <p>Which the above-named Members did accordingly, and withal declared, That the House did with Thankfulness take notice of the civil and mo<g ref="char:EOLhyphen"/>dest behavior of the Petitiones, in the delivery of their said Petition.</p>
+               </postscript>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:114337:4"/>
+            <head>To the High and Honorable, The Knights, Citizens and Burgesses in the Supreme Court of Parliament assembled: <hi>The Petition of divers yong Men and Apprentices of the City of</hi> London,</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat out of the grounded confidence we have of the readiness of this Honorable House, to hear and re<g ref="char:EOLhyphen"/>pair the grievances of all those for whose welfare you were chosen and betrusted to take care and provide; and being encouraged unto the same, by several good<note n="*" place="margin">A Declarat. May 19 1642. Remonstrance May 20. 1642.</note> Ordi<g ref="char:EOLhyphen"/>nances and Declarations of your own to that purpose:</p>
+            <p>We whose names are hereunto annexed, although the meanest members of this great Commonwealth; yet having by birth a right of subsistance here, conceived our selves (in our proportion) to have as real an interest in the Kingdoms enjoy<g ref="char:EOLhyphen"/>ments, as those who in respect of place or other accidents are above us: As also many of us, having under the direction of your Honors grave Councel and Guidance, freely adven<g ref="char:EOLhyphen"/>tured our lives, for the preservation of our Native Rights, and the just Priviledges of our dear Countrey, against the publique violaters of the same: Upon these and other serious grounds, we are bold at this time to make our humble addresses to this Honorable and supreme Court of Judicature (the only refuge un<g ref="char:EOLhyphen"/>der God we have to fly to) and in the first place, we cannot but with all thankfulness take notice of the unwearied pains, toge<g ref="char:EOLhyphen"/>ther with many great and almost intolerable difficulties by you undergone, in the faithful discharge of your trust, in bringing about the establishment of a wel-grounded peace; The perfe<g ref="char:EOLhyphen"/>ction of which (in relation to the common enemy) seems now by the blessing of God to be brought near to a wished peri<g ref="char:EOLhyphen"/>od: Yet the consummation of this work being (as it were) the Crown of all your labors, we humbly conceive it may deservedly challenge from you a more then ordinary respect, which we doubt not but that your grave wisdoms are very sensible of: yet (noble Senators) let it seem no presumption, if we your poor Petitioners in all humility make known the grounds of some fears and jealousies to us apparent in this
+<pb n="7" facs="tcp:114337:4"/>particular; And those are (amongst other great grievances) chiefly derived from the present sense we have of the too much prevalency of that party who have in the late Wars decla<g ref="char:EOLhyphen"/>red themselves disaffected to the peace and well-fare of the Kingdom; who now seem to be in hopes of obtaining that by policy, which they have not been able to do by force; Cun<g ref="char:EOLhyphen"/>ningly contriving to aggravate and encrease differences be<g ref="char:EOLhyphen"/>tween the well-affected party, and striving to bring an <hi>Odium</hi> upon all good men, under the distinctions of several tearms of obloquie and disgrace, by such subtle endeavors, laboring to avert the edge of Justice from themselves (who come de<g ref="char:EOLhyphen"/>servedly under the stroke of it, and to turn it upon those who are most innocent; Strongly endeavoring (and have already effected it in part) to justle all honest, faithful, well-affected men out of places of trust, office and authority, and to put in New<g ref="char:EOLhyphen"/>ters, Ambodexters, or persons apparently disaffected: By all these means, together with the advantage of the Kingdoms present unsettledness; they seem to be in a more then probable expectation of getting the reins once more into their own hands, to the evident endangering of the Common-wealths speedy ruine, and to the great grief of your poor Petitioners, and all others who cordially desire the peace and safety of this distracted Kingdom. And further we are bold to make known (as more particularly relating to the condition of your Petiti<g ref="char:EOLhyphen"/>oners) That whereas we at our being made free of the City are enjoyn'd by oath, to maintain the Liberties and Priviledges of the same City; which notwithstanding we are in a great measure disabled to do, by the intrusion of divers illegal and undue Customs, and<note n="*" place="margin">A Clause of 11 <hi>Hen.</hi> 6.</note> Monopolies (partly about the election and removal of our Magistrates) crept into the diminution of the ancient liberties of this famous City, whose just immu<g ref="char:EOLhyphen"/>nities we are confident your Honors have been and are very ten<g ref="char:EOLhyphen"/>der of.</p>
+            <p>Wherefore your Petitioners humbly pray, that this Honorable House, taking into consideration the Premises, would be pleased by your mature Prudence and Care, to endeavor (as much as possibly you can) to take away all occasions of breaches be<g ref="char:EOLhyphen"/>tween the well-affected party. And, that such as have in these
+<pb n="8" facs="tcp:114337:5"/>late times of trouble; (by adventuring their lives or othewise approved themselves faithful to their Countreys common good may without respect to differences, no way prejudicial to the Common-wealth, impartially enjoy their Birthright-Privi<g ref="char:EOLhyphen"/>ledges, and be equally capable with others of the freedom to officiate in places of trust, which they are or shall be chosen un<g ref="char:EOLhyphen"/>to. And on the contrary, that all those who have dis-fran<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> themselves by Trayterously adhering to the enemy, may be dis<g ref="char:EOLhyphen"/>abled from bearing office, or voting in the election of officers in the Common-wealth. And we further crave, (with sub<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sion to your Honors grave Approvements) that in regard of the Kingdoms present unsetledness, it may not be left destitute of a trusly and sufficient guard to secure it from intestine B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and forraign Invasion. And as for your Petitioners more parti<g ref="char:EOLhyphen"/>cular grievances, as they are members of this City; we humbly pray, that you would be pleased by your Authority so to provide that we (as we are or shall be capable of it) may be enabled to enjoy the benefit of all ancient Charters and Grants, made <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confirmed by several Acts of Parliament, for the enlargeme<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Freedoms and Priviledges;<note place="margin">Especially the 4 Charter of King <hi>John,</hi> of <hi>Edw.</hi> 2. confirmed by <hi>Edw.</hi> 3. and his Councel in Parliament.</note> and that whatsoever hath b<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> illegally intruded, may be taken away and made void. And <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (as some have already desired, we likewise pray, that (if so <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a thing may be worthy the intention of this grave and Hono<g ref="char:EOLhyphen"/>rable Assembly) you would be pleased to appoint some time of lawful Recreations for severants, as your wisdom (shall think fit.</p>
+            <p>And your Petitioners, as they have many of them already (according to their duty) freely adventured their lives, and whatsoever was dear to them for the common safety of their Country; so they still profess their readiness, to give their best assistance to the suppressing all Arbitrray and Tyranical power; and to the upholding the Fundamental Rights and Liberties of Free-born English men, and the just Priviledges of this Hono<g ref="char:EOLhyphen"/>rable House, against all that shall set themselves in opposition of the same.</p>
+            <closer>
+               <hi>And be ever bound to pray, &amp;c</hi>
+            </closer>
+            <postscript>
+               <p>Whatsoever is contained in the Petition, the Subscribers will be ready to make good by particular instances, when they shall be lawfully called <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the same.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
